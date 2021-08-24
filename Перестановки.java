@@ -1,7 +1,5 @@
 package com.company;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -33,4 +31,3 @@ public class Main {
 
     }
 }
-
